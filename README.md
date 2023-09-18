@@ -6,7 +6,7 @@ Explore the work of authors who have harnessed the power of the NICFI Satellite 
 Feel free to explore, engage, and contribute to this repository by sharing your code, notebook, app, etc. by emailing nicfi-servicedesk@ksat.no.<br><br>
 
 | Repository            | Author                    | Resource                                       | Overview                                       |
-|-----------------------|--------------------------------|--------------------------------------------|
+|-----------------------|--------------------------------|--------------------------------------------|--------------------------------------------|
 | AutoSR-RS_SENT-NICFI    | [JuliaWasala](https://github.com/JuliaWasala) | [GitHub Repo](https://github.com/JuliaWasala/autoSR-RS_SENT-NICFI) |
 | Package to download Planet Scope images (4.77 m res)        | [klauswiese](https://github.com/klauswiese)  | [GitHub Repo](https://github.com/klauswiese/Planet) |
 | Processing of the 'Planet NICFI' Satellite Imagery              | [mlampros](https://github.com/mlampros)  | [GitHub Repo](https://github.com/mlampros/PlanetNICFI/) |
